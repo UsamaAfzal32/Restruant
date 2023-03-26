@@ -95,6 +95,7 @@ export const Billingdetails = () => {
                     </Box>
                 </Box>
                 <Typography sx={{ fontSize: '22px', fontFamily: 'poppins', color: '#333333', fontWeight: '550', mt: "10px" }}>Your Order</Typography>
+
                 <YourOrder />
             </Box>
 
